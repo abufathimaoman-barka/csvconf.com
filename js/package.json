@@ -8,7 +8,7 @@
   "through": "2.3.4",
   "hypernal": "0.2.7",
   "tablify": "0.1.5",
-  "concat-stream": "1.4.4"
+  "concat-stream": "1.4.11"
  },
  "scripts": {
   "build": "browserify quakes.js -o bundle.js"
